@@ -1,4 +1,4 @@
-package com.example.springwebservice;
+package com.example.webservice.domain;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
